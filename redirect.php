@@ -1,7 +1,7 @@
 <?php
 $servername = "localhost";
 $username = "root";
-$password = "";
+$password = "root";
 $dbname = "url_shortener";
 
 $conn = new mysqli($servername, $username, $password, $dbname);
